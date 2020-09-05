@@ -17,7 +17,8 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="ColorStripe-BW.svg"
    inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-ydpi="90"
+   inkscape:export-filename="/home/quake/personal/casualtux/pattern-colorwave/original/ColorStripe-BW.png">
   <title
      id="title1964">ColorStripe Red</title>
   <defs
@@ -30,8 +31,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.4"
-     inkscape:cx="979.73684"
-     inkscape:cy="846.19516"
+     inkscape:cx="868.10526"
+     inkscape:cy="953.80484"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -76,23 +77,17 @@ Gary Anderson, Troy Dawson, Larry Ewing, Simon Budig, Anja Gerwinski
      id="layer2"
      inkscape:label="Layer 2">
     <path
-       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:5.30595417;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 0.01916043,292.01276 48.441409,316.61209 h 23.035827 l 74.748904,-27.11651 86.972,-38.80466 9.8725,-78.07687 120.82057,-79.011906 78.50986,66.388716 -7.05178,62.64849 23.97603,7.48042 19.56331,61.89299 v 162.71138 l -32.25648,-71.25582 -25.38644,0.46751 -9.40237,-63.58353 -68.63737,-4.67527 -5.17129,29.92168 -61.58558,15.8959 -8.46214,73.40158 -83.21107,5.14279 -58.76486,26.64897 -88.382355,-40.67478 -37.13939497,28.98666 -0.4701196,-0.27569"
-       id="path37569-3"
+       sodipodi:nodetypes="ccccccccccc"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccccccccc" />
+       id="path1214"
+       d="m -1.2933215,290.23337 49.4843605,26.08878 23.78413,0.0202 161.172581,-65.71817 9.79817,-78.40281 120.88596,-78.623053 78.3671,65.834983 -6.66157,63.24656 24.10265,7.58336 14.3663,59.53286 7.45399,3.83589"
+       style="fill:none;stroke:#000000;stroke-width:5.27712059;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:5.29166651;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 0,453.76042 37.458586,-27.67441 88.322724,40.28081 58.79363,-26.24185 83.47203,-5.33978 9.1642,-73.61029 60.73391,-15.63447 5.41193,-29.78567 68.40682,4.57008 9.55707,63.49198 25.35991,-0.24855 29.56919,70.19215"
-       id="path1594"
+       sodipodi:nodetypes="ccccccccccccc"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:5.27712059;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 0,291.04167 48.19108,25.28048 23.784134,0.0202 161.172576,-65.71817 9.79817,-78.40281 120.88596,-78.623053 78.3671,65.834983 -6.66157,63.24656 24.10265,7.58336 16.6099,60.77845"
-       id="path787"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccc" />
+       id="path1216"
+       d="m -1.5939504,454.80639 39.0524404,-28.72038 88.32272,40.28081 58.79363,-26.24185 83.47203,-5.33978 9.1642,-73.61029 60.73391,-15.63447 5.41193,-29.78567 68.40682,4.57008 9.55707,63.49198 25.35991,-0.24855 28.41791,70.92645 6.22696,-4.43531"
+       style="fill:none;stroke:#000000;stroke-width:5.29166651;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        transform="matrix(0.18283559,-0.03886291,0.03886291,0.18283559,237.96987,57.944562)"
        id="g1366">
